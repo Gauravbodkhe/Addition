@@ -2,6 +2,7 @@
 #include <iostream>
 
 int main() {
+//A
     int a, b,add;
     cout<<enter number<<endl;
     cin>>a;
